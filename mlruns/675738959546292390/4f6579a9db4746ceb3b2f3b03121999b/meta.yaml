@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/675738959546292390/4f6579a9db4746ceb3b2f3b03121999b/artifacts
+deleted_time: 1758574928515
 end_time: null
 entry_point_name: ''
 experiment_id: '675738959546292390'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 4f6579a9db4746ceb3b2f3b03121999b
 run_name: nebulous-grub-920
 source_name: ''
