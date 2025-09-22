@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/675738959546292390/c74107f54d0740e28050477c55f55e07/artifacts
+deleted_time: 1758574065154
+end_time: 1758573832292
+entry_point_name: ''
+experiment_id: '675738959546292390'
+lifecycle_stage: deleted
+run_id: c74107f54d0740e28050477c55f55e07
+run_name: inquisitive-pug-189
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758573790573
+status: 3
+tags: []
+user_id: Elbia

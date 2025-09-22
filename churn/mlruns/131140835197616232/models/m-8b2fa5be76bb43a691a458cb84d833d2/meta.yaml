@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/Elbia/OneDrive/%C3%81rea%20de%20Trabalho/Projeto-Machine-Learning/churn/mlruns/131140835197616232/models/m-8b2fa5be76bb43a691a458cb84d833d2/artifacts
+creation_timestamp: 1758573087446
+experiment_id: '131140835197616232'
+last_updated_timestamp: 1758573096589
+model_id: m-8b2fa5be76bb43a691a458cb84d833d2
+model_type: null
+name: model
+source_run_id: ee65a0b007054066a7aba7ae8342ec22
+status: 2
+status_message: null

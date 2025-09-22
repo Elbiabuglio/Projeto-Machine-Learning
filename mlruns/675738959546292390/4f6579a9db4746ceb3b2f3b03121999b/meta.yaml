@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/675738959546292390/4f6579a9db4746ceb3b2f3b03121999b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '675738959546292390'
+lifecycle_stage: active
+run_id: 4f6579a9db4746ceb3b2f3b03121999b
+run_name: nebulous-grub-920
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758574822288
+status: 1
+tags: []
+user_id: Elbia

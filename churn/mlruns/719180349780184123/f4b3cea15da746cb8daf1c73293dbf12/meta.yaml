@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Elbia/OneDrive/%C3%81rea%20de%20Trabalho/Projeto-Machine-Learning/churn/mlruns/719180349780184123/f4b3cea15da746cb8daf1c73293dbf12/artifacts
+end_time: 1758573433017
+entry_point_name: ''
+experiment_id: '719180349780184123'
+lifecycle_stage: active
+run_id: f4b3cea15da746cb8daf1c73293dbf12
+run_name: wise-hawk-635
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758573395044
+status: 3
+tags: []
+user_id: Elbia

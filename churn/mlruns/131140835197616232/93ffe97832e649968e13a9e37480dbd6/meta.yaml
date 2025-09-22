@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Elbia/OneDrive/%C3%81rea%20de%20Trabalho/Projeto-Machine-Learning/churn/mlruns/131140835197616232/93ffe97832e649968e13a9e37480dbd6/artifacts
+end_time: 1758573337787
+entry_point_name: ''
+experiment_id: '131140835197616232'
+lifecycle_stage: active
+run_id: 93ffe97832e649968e13a9e37480dbd6
+run_name: spiffy-conch-423
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758573305114
+status: 3
+tags: []
+user_id: Elbia

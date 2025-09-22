@@ -1,0 +1,47 @@
+artifact_path: mlflow-artifacts:/675738959546292390/models/m-1c28de21b1f64e038fab072fbe6c59af/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+is_signature_from_type_hint: false
+mlflow_version: 3.4.0
+model_id: m-1c28de21b1f64e038fab072fbe6c59af
+model_size_bytes: 5722425
+model_uuid: m-1c28de21b1f64e038fab072fbe6c59af
+prompts: null
+run_id: 9c72ba3c070648eeb4744316327257ca
+signature:
+  inputs: '[{"type": "long", "name": "qtdeDiasD14", "required": true}, {"type": "double",
+    "name": "propAvgQtdeDias", "required": true}, {"type": "double", "name": "qtdeDiasPrimeiraTransacao",
+    "required": true}, {"type": "double", "name": "qtdeDiasUltimaTransacao", "required":
+    true}, {"type": "double", "name": "propAvgQtdePontosPos", "required": true}, {"type":
+    "double", "name": "propAvgSaldoPontos", "required": true}, {"type": "double",
+    "name": "propAvgQtdeTransacoes", "required": true}, {"type": "double", "name":
+    "propAvgMediaTransacoesDias", "required": true}, {"type": "long", "name": "qtdeTransacoesD28",
+    "required": true}, {"type": "long", "name": "qtdePontosPos", "required": true},
+    {"type": "long", "name": "qtdeDiasD28", "required": true}, {"type": "long", "name":
+    "qtdeTransacoesD7", "required": true}, {"type": "long", "name": "qtdeChatMessage",
+    "required": true}, {"type": "double", "name": "mediaTransacoesDias", "required":
+    true}, {"type": "long", "name": "qtdeTransacoes", "required": true}, {"type":
+    "long", "name": "qtdePontosPosD7", "required": true}, {"type": "long", "name":
+    "saldoPontosD28", "required": true}, {"type": "long", "name": "qtdePontosPosD28",
+    "required": true}, {"type": "long", "name": "qtdeDias", "required": true}, {"type":
+    "long", "name": "saldoPontos", "required": true}, {"type": "long", "name": "qtdeTransacoesD14",
+    "required": true}, {"type": "long", "name": "saldoPontosD14", "required": true},
+    {"type": "long", "name": "qtdePontosPosD14", "required": true}, {"type": "long",
+    "name": "qtdePresen\u00e7a", "required": true}, {"type": "long", "name": "qtdSkuDistintos",
+    "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-09-22 20:46:35.304071'

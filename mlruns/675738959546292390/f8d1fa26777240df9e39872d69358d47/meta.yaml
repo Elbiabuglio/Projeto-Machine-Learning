@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/675738959546292390/f8d1fa26777240df9e39872d69358d47/artifacts
+deleted_time: 1758574658357
+end_time: null
+entry_point_name: ''
+experiment_id: '675738959546292390'
+lifecycle_stage: deleted
+run_id: f8d1fa26777240df9e39872d69358d47
+run_name: fearless-zebra-428
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758574569079
+status: 1
+tags: []
+user_id: Elbia

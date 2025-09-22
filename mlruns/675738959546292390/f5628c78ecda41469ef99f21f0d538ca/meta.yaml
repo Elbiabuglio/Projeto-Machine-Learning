@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/675738959546292390/f5628c78ecda41469ef99f21f0d538ca/artifacts
+deleted_time: 1758574065180
+end_time: 1758573580634
+entry_point_name: ''
+experiment_id: '675738959546292390'
+lifecycle_stage: deleted
+run_id: f5628c78ecda41469ef99f21f0d538ca
+run_name: treasured-robin-325
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758573545990
+status: 3
+tags: []
+user_id: Elbia

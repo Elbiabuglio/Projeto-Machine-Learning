@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/675738959546292390/c7b189abff674aa0ae79da021d209117/artifacts
+end_time: 1758574811960
+entry_point_name: ''
+experiment_id: '675738959546292390'
+lifecycle_stage: active
+run_id: c7b189abff674aa0ae79da021d209117
+run_name: "RandomForestClassifier(min_samples_leaf=20, n_estimators=500, n_jobs=1,\n
+  \                      random_state=42)"
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758574772658
+status: 3
+tags: []
+user_id: Elbia

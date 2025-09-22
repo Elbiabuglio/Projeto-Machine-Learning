@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/675738959546292390/33101706dd4e4c10938f31d5fa9698bd/artifacts
+end_time: 1758574351687
+entry_point_name: ''
+experiment_id: '675738959546292390'
+lifecycle_stage: active
+run_id: 33101706dd4e4c10938f31d5fa9698bd
+run_name: bustling-flea-78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758574037695
+status: 3
+tags: []
+user_id: Elbia
