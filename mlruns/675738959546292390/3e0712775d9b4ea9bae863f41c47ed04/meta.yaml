@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/675738959546292390/3e0712775d9b4ea9bae863f41c47ed04/artifacts
+end_time: 1758589642387
+entry_point_name: ''
+experiment_id: '675738959546292390'
+lifecycle_stage: active
+run_id: 3e0712775d9b4ea9bae863f41c47ed04
+run_name: secretive-squid-13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758589614653
+status: 3
+tags: []
+user_id: Elbia

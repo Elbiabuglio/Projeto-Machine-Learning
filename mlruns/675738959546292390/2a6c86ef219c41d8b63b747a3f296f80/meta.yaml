@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/675738959546292390/2a6c86ef219c41d8b63b747a3f296f80/artifacts
+end_time: 1758589643673
+entry_point_name: ''
+experiment_id: '675738959546292390'
+lifecycle_stage: active
+run_id: 2a6c86ef219c41d8b63b747a3f296f80
+run_name: chill-newt-259
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758589614653
+status: 3
+tags: []
+user_id: Elbia

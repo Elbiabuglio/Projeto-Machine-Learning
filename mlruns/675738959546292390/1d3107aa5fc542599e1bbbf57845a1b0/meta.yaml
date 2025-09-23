@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/675738959546292390/1d3107aa5fc542599e1bbbf57845a1b0/artifacts
+end_time: 1758589614153
+entry_point_name: ''
+experiment_id: '675738959546292390'
+lifecycle_stage: active
+run_id: 1d3107aa5fc542599e1bbbf57845a1b0
+run_name: puzzled-roo-412
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758589595953
+status: 3
+tags: []
+user_id: Elbia

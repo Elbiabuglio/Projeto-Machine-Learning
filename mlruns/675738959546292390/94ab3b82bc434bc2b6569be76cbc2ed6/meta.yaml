@@ -1,5 +1,5 @@
 artifact_uri: mlflow-artifacts:/675738959546292390/94ab3b82bc434bc2b6569be76cbc2ed6/artifacts
-end_time: null
+end_time: 1758589327415
 entry_point_name: ''
 experiment_id: '675738959546292390'
 lifecycle_stage: active
@@ -9,6 +9,6 @@ source_name: ''
 source_type: 4
 source_version: ''
 start_time: 1758588678141
-status: 1
+status: 4
 tags: []
 user_id: Elbia

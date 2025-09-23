@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/675738959546292390/7c00552752ff440798da259be78a57ce/artifacts
+end_time: 1758589657176
+entry_point_name: ''
+experiment_id: '675738959546292390'
+lifecycle_stage: active
+run_id: 7c00552752ff440798da259be78a57ce
+run_name: nervous-yak-716
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758589644023
+status: 4
+tags: []
+user_id: Elbia

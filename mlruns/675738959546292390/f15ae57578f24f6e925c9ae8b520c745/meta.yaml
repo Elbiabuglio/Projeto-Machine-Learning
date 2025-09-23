@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/675738959546292390/f15ae57578f24f6e925c9ae8b520c745/artifacts
+end_time: 1758589642387
+entry_point_name: ''
+experiment_id: '675738959546292390'
+lifecycle_stage: active
+run_id: f15ae57578f24f6e925c9ae8b520c745
+run_name: chill-wren-236
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758589614653
+status: 3
+tags: []
+user_id: Elbia
