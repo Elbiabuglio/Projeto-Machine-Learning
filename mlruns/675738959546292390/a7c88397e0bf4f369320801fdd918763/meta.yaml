@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/675738959546292390/a7c88397e0bf4f369320801fdd918763/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '675738959546292390'
+lifecycle_stage: active
+run_id: a7c88397e0bf4f369320801fdd918763
+run_name: painted-fawn-881
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758588274772
+status: 1
+tags: []
+user_id: Elbia

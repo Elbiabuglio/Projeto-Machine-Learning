@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/675738959546292390/46960e47e5ff436d8e34312a36cbfc90/artifacts
+end_time: 1758588273346
+entry_point_name: ''
+experiment_id: '675738959546292390'
+lifecycle_stage: active
+run_id: 46960e47e5ff436d8e34312a36cbfc90
+run_name: intelligent-fly-317
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758588253246
+status: 3
+tags: []
+user_id: Elbia

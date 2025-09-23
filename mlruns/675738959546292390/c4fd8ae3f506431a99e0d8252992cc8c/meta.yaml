@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/675738959546292390/c4fd8ae3f506431a99e0d8252992cc8c/artifacts
+end_time: 1758588251902
+entry_point_name: ''
+experiment_id: '675738959546292390'
+lifecycle_stage: active
+run_id: c4fd8ae3f506431a99e0d8252992cc8c
+run_name: persistent-lark-451
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758588230823
+status: 3
+tags: []
+user_id: Elbia

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/675738959546292390/9da0be595b4944159ea3ed9d90be71cf/artifacts
+end_time: 1758588202988
+entry_point_name: ''
+experiment_id: '675738959546292390'
+lifecycle_stage: active
+run_id: 9da0be595b4944159ea3ed9d90be71cf
+run_name: nimble-hen-635
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758588180523
+status: 3
+tags: []
+user_id: Elbia

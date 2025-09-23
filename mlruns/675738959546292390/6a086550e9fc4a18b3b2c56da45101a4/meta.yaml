@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/675738959546292390/6a086550e9fc4a18b3b2c56da45101a4/artifacts
+end_time: 1758588229662
+entry_point_name: ''
+experiment_id: '675738959546292390'
+lifecycle_stage: active
+run_id: 6a086550e9fc4a18b3b2c56da45101a4
+run_name: crawling-conch-751
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758588204661
+status: 3
+tags: []
+user_id: Elbia

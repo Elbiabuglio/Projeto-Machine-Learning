@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/675738959546292390/0b13f08d6db44e6fa7fee28808c47e6f/artifacts
+end_time: 1758588251902
+entry_point_name: ''
+experiment_id: '675738959546292390'
+lifecycle_stage: active
+run_id: 0b13f08d6db44e6fa7fee28808c47e6f
+run_name: intrigued-mole-404
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758588230823
+status: 3
+tags: []
+user_id: Elbia

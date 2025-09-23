@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/675738959546292390/3cf26796b6504678ad4d55929dc2f274/artifacts
+end_time: 1758588273346
+entry_point_name: ''
+experiment_id: '675738959546292390'
+lifecycle_stage: active
+run_id: 3cf26796b6504678ad4d55929dc2f274
+run_name: fortunate-perch-682
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758588253246
+status: 3
+tags: []
+user_id: Elbia

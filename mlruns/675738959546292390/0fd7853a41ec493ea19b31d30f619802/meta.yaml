@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/675738959546292390/0fd7853a41ec493ea19b31d30f619802/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '675738959546292390'
+lifecycle_stage: active
+run_id: 0fd7853a41ec493ea19b31d30f619802
+run_name: languid-stork-299
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758588274772
+status: 1
+tags: []
+user_id: Elbia

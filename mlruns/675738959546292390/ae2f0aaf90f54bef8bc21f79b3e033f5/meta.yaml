@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/675738959546292390/ae2f0aaf90f54bef8bc21f79b3e033f5/artifacts
+end_time: 1758588251902
+entry_point_name: ''
+experiment_id: '675738959546292390'
+lifecycle_stage: active
+run_id: ae2f0aaf90f54bef8bc21f79b3e033f5
+run_name: suave-robin-612
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758588230823
+status: 3
+tags: []
+user_id: Elbia

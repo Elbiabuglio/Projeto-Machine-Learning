@@ -1,0 +1,9 @@
+digest: 0f69d9c9
+name: dataset
+profile: '{"num_rows": 4154, "num_elements": 4154}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "qtdeDiasPrimeiraTransacao",
+  "required": true}]}'
+source: '{"tags": {"mlflow.user": "Elbia", "mlflow.source.name": "c:\\Users\\Elbia\\OneDrive\\\u00c1rea
+  de Trabalho\\Projeto-Machine-Learning\\venv\\Lib\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "ebbc08deaf04f7d817b43eb0b3cc4f81ac24c251"}}'
+source_type: code

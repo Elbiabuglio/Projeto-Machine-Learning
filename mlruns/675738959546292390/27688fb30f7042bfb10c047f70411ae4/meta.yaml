@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/675738959546292390/27688fb30f7042bfb10c047f70411ae4/artifacts
+end_time: 1758588299360
+entry_point_name: ''
+experiment_id: '675738959546292390'
+lifecycle_stage: active
+run_id: 27688fb30f7042bfb10c047f70411ae4
+run_name: charming-colt-181
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758588274772
+status: 3
+tags: []
+user_id: Elbia

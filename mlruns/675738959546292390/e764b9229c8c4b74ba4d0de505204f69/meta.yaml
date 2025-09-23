@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/675738959546292390/e764b9229c8c4b74ba4d0de505204f69/artifacts
+end_time: 1758588299360
+entry_point_name: ''
+experiment_id: '675738959546292390'
+lifecycle_stage: active
+run_id: e764b9229c8c4b74ba4d0de505204f69
+run_name: classy-lynx-88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758588274772
+status: 3
+tags: []
+user_id: Elbia

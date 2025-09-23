@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/675738959546292390/0fdd2c2799f5498bbd9a3b54e5031727/artifacts
+end_time: 1758588180189
+entry_point_name: ''
+experiment_id: '675738959546292390'
+lifecycle_stage: active
+run_id: 0fdd2c2799f5498bbd9a3b54e5031727
+run_name: sassy-hog-724
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758588162880
+status: 3
+tags: []
+user_id: Elbia

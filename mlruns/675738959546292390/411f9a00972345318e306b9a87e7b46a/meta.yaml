@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/675738959546292390/411f9a00972345318e306b9a87e7b46a/artifacts
+end_time: 1758588274478
+entry_point_name: ''
+experiment_id: '675738959546292390'
+lifecycle_stage: active
+run_id: 411f9a00972345318e306b9a87e7b46a
+run_name: worried-crane-947
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758588253246
+status: 3
+tags: []
+user_id: Elbia
